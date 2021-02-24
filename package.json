@@ -1,0 +1,10 @@
+{
+  "name": "node-promise-timeout",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jwkim101201/promise-timeout.git"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
